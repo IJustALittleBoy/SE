@@ -1,0 +1,2949 @@
+('E:\\Users\\ice '
+ 'blue\\PycharmProjects\\pythonProject\\yq\\build\\test\\PYZ-00.pyz',
+ [('pkg_resources',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('typing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('__future__',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('string',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('hashlib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('doctest',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('argparse',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('unittest',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('signal',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('base64',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('contextvars',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('bisect',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('email',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.header',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('getpass',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('uu',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('decimal',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('difflib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('random',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('fractions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('socket',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('subprocess',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('shutil',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('pdb',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('glob',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('threading',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('datetime',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('pprint',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('copy',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('py_compile',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('imp',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('posixpath',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('ntpath',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('inspect',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('stat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipimport',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipfile',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('pathlib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('os',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('py_module',
+   'E:\\Users\\ice blue\\PycharmProjects\\pythonProject\\yq\\py_module.py',
+   'PYMODULE'),
+  ('numpy',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('json',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('site',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler_opt',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\ccompiler_opt.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('pipes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pipes.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.typing._add_docstring',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy.typing._generic_alias',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy.typing._array_like',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy.typing._dtype_like',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy.typing._shape',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy.typing._scalars',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy.typing._char_codes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy.typing._nbit',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy.typing._nested_sequence',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('pandas',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlwt',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_xlwt.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('six',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.describe',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.methods',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\methods.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pytz',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing._random',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_testing\\_random.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.dtype',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\dtype.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'D:\\Users\\ice '
+   'blue\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE')])
